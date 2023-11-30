@@ -1,6 +1,6 @@
 # Proyecto Final del curso de Matemática Discreta
 
-# Motor de ajedrez
+## Motor de ajedrez
 Este programa es un motor de ajedrez para utilizarse en partidas contra maquina utilizando el programa cute chess, el cual es una interfaz grafica que utiliza el protocolo UCI para importar el motor.
 
 # Pasos para crear el programa
@@ -17,4 +17,4 @@ Este programa es un motor de ajedrez para utilizarse en partidas contra maquina 
 11. Divertirse 🥳😸
 
 
-# made with <3 by unmsm
+#### made with <3 by unmsm
