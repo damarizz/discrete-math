@@ -1,4 +1,4 @@
-# discrete-math
+# Proyecto Final del curso de Matemática Discreta
 
 # Motor de ajedrez
 Este programa es un motor de ajedrez para utilizarse en partidas contra maquina utilizando el programa cute chess, el cual es una interfaz grafica que utiliza el protocolo UCI para importar el motor.
@@ -14,5 +14,7 @@ Este programa es un motor de ajedrez para utilizarse en partidas contra maquina 
 8. En el apartado de "Engines" clickear en el icono de "+" de la parte inferior izquierda
 9. En el apartado de "Command" dar click en "browse" y seleccionar el ejecutable, clickear en "OK" y cerrar la ventana de "settings".
 10. En el apartado de "Game" arriba a la izquierda, seleccionar "New", seleccionar CPU en donde el lado donde quiera usar el motor de ajedrez y clickear en "OK".
-11. Divertirse
+11. Divertirse 🥳😸
 
+
+# made with <3 by unmsm
